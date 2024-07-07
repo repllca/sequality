@@ -3,8 +3,6 @@
  */
 package org.example;
 
-import main.java.org.example.Calculate;
-
 public class App {
   public String getGreeting() {
     return "Hello World!";

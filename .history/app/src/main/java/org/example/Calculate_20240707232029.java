@@ -1,4 +1,4 @@
-package main.java.org.example;
+package org.example;
 
 public class Calculate {
   public int sum(int x, int y) {

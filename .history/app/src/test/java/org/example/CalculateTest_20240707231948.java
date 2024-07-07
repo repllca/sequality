@@ -1,8 +1,8 @@
-package test.java.org.example;
+package org.example;
 
 import org.junit.Test;
 import static org.junit.Assert.*;
-import main.java.org.example.Calculate;
+
 public class CalculateTest {
   @Test
   public void testSum() {
